@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowUpRight, Mail, Phone } from "lucide-react";
+import { ArrowUpRight, Mail } from "lucide-react";
 import { GithubIcon, LinkedinIcon } from "../components/Icons";
 import { SectionHeader } from "../components/SectionHeader";
 import { meta } from "../data/metadata";
@@ -62,12 +62,6 @@ export function Contact() {
             label="GitHub"
             value="@AryaChakraborty"
             href={meta.personal.links.github}
-          />
-          <ContactRow
-            icon={Phone}
-            label="Phone"
-            value={meta.personal.phone}
-            href={`tel:${meta.personal.phone.replace(/\s+/g, "")}`}
           />
         </div>
       </motion.div>

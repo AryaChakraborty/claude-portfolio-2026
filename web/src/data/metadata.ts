@@ -75,7 +75,6 @@ type Meta = {
     tagline: string;
     summary: string;
     email: string;
-    phone: string;
     location: string;
     links: { linkedin: string; github: string; portfolio?: string };
     dob: string;
