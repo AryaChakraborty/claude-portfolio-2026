@@ -1,0 +1,861 @@
+{
+  "personal": {
+    "name": "Arya Chakraborty",
+    "tagline": "AI Engineer — LLMs, RAG, and applied ML systems",
+    "summary": "AI Engineer working on LLMs, RAG systems, and real-world ML applications. Experience fine-tuning large models, building retrieval pipelines, and deploying speech-to-text / TTS stacks with quantization and multi-GPU setups.",
+    "email": "aryachakraborty2002@gmail.com",
+    "phone": "+91-9883845692",
+    "location": "India",
+    "links": {
+      "linkedin": "https://linkedin.com/in/chakraborty-arya/",
+      "github": "https://github.com/AryaChakraborty"
+    },
+    "dob": "2002-08-18"
+  },
+
+  "education": [
+    {
+      "id": "btech",
+      "degree": "B.Tech, Computer Science and Engineering",
+      "institute": "Kalyani Government Engineering College",
+      "board_or_university": "Maulana Abul Kalam Azad University of Technology, West Bengal (MAKAUT)",
+      "start": "2020-06",
+      "end": "2024-06",
+      "final_cgpa": 9.18,
+      "semesters": [
+        {
+          "sem": 1,
+          "year": "2020-21",
+          "sgpa": 9.8,
+          "credits_earned": 17.5,
+          "total_points": 171.5,
+          "subjects": [
+            {
+              "code": "BSPH101",
+              "name": "Physics I (Gr A)",
+              "grade": "O",
+              "points": 10,
+              "credit": 4.0,
+              "credit_points": 40
+            },
+            {
+              "code": "BSM101",
+              "name": "Mathematics I A",
+              "grade": "O",
+              "points": 10,
+              "credit": 4.0,
+              "credit_points": 40
+            },
+            {
+              "code": "ESEE101",
+              "name": "Basic Electrical Engineering",
+              "grade": "O",
+              "points": 10,
+              "credit": 4.0,
+              "credit_points": 40
+            },
+            {
+              "code": "BSPH191",
+              "name": "Physics I Laboratory (Gr A)",
+              "grade": "E",
+              "points": 9,
+              "credit": 1.5,
+              "credit_points": 13.5
+            },
+            {
+              "code": "ESEE191",
+              "name": "Basic Electrical Engineering Laboratory",
+              "grade": "A",
+              "points": 8,
+              "credit": 1.0,
+              "credit_points": 8
+            },
+            {
+              "code": "ESME192",
+              "name": "Workshop/Manufacturing Practices (Gr A)",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            }
+          ]
+        },
+        {
+          "sem": 2,
+          "year": "2020-21",
+          "sgpa": 9.76,
+          "credits_earned": 20.5,
+          "total_points": 199.5,
+          "subjects": [
+            {
+              "code": "BSCH201",
+              "name": "Chemistry I (Gr A)",
+              "grade": "E",
+              "points": 9,
+              "credit": 4.0,
+              "credit_points": 36
+            },
+            {
+              "code": "BSM201",
+              "name": "Mathematics II A",
+              "grade": "O",
+              "points": 10,
+              "credit": 4.0,
+              "credit_points": 40
+            },
+            {
+              "code": "ESCS201",
+              "name": "Programming for Problem Solving",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "HMHU201",
+              "name": "English",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "BSCH291",
+              "name": "Chemistry I Laboratory (Gr A)",
+              "grade": "E",
+              "points": 9,
+              "credit": 1.5,
+              "credit_points": 13.5
+            },
+            {
+              "code": "ESCS291",
+              "name": "Programming for Problem Solving Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "ESME291",
+              "name": "Engineering Graphics & Design (Gr A)",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "HMHU291",
+              "name": "Language Laboratory",
+              "grade": "O",
+              "points": 10,
+              "credit": 1.0,
+              "credit_points": 10
+            }
+          ]
+        },
+        {
+          "sem": 3,
+          "year": "2021-22",
+          "sgpa": 9.64,
+          "credits_earned": 22,
+          "total_points": 212,
+          "subjects": [
+            {
+              "code": "ESC301",
+              "name": "Analog and Digital Electronics",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "PCC-CS301",
+              "name": "Data Structure & Algorithms",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "PCC-CS302",
+              "name": "Computer Organisation",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "BSC301",
+              "name": "Mathematics-III (Differential Calculus)",
+              "grade": "E",
+              "points": 9,
+              "credit": 2.0,
+              "credit_points": 18
+            },
+            {
+              "code": "HSMC301",
+              "name": "Economics for Engineers (Humanities-II)",
+              "grade": "A",
+              "points": 8,
+              "credit": 3.0,
+              "credit_points": 24
+            },
+            {
+              "code": "PCC-CS393",
+              "name": "IT Workshop (Sci-Lab/MATLAB/Python/R)",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "ES-CS391",
+              "name": "Analog and Digital Electronics Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "PCC-CS391",
+              "name": "Data Structure & Algorithms Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "PCC-CS392",
+              "name": "Computer Organisation Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            }
+          ]
+        },
+        {
+          "sem": 4,
+          "year": "2021-22",
+          "sgpa": 9.67,
+          "credits_earned": 21,
+          "total_points": 203,
+          "subjects": [
+            {
+              "code": "PCC-CS401",
+              "name": "Discrete Mathematics",
+              "grade": "O",
+              "points": 10,
+              "credit": 4.0,
+              "credit_points": 40
+            },
+            {
+              "code": "PCC-CS402",
+              "name": "Computer Architecture",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "PCC-CS403",
+              "name": "Formal Language & Automata Theory",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "PCC-CS404",
+              "name": "Design & Analysis of Algorithms",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "BSC 401",
+              "name": "Biology",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "MC401",
+              "name": "Environmental Sciences",
+              "grade": "E",
+              "points": 9,
+              "credit": 1.0,
+              "credit_points": 9
+            },
+            {
+              "code": "PCC-CS 492",
+              "name": "Computer Architecture Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "PCC-CS494",
+              "name": "Design & Analysis of Algorithms Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            }
+          ]
+        },
+        {
+          "sem": 5,
+          "year": "2022-23",
+          "sgpa": 8.75,
+          "credits_earned": 24,
+          "total_points": 212,
+          "subjects": [
+            {
+              "code": "ESC501",
+              "name": "Software Engineering",
+              "grade": "A",
+              "points": 8,
+              "credit": 3.0,
+              "credit_points": 24
+            },
+            {
+              "code": "PCC-CS501",
+              "name": "Compiler Design",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "PCC-CS502",
+              "name": "Operating Systems",
+              "grade": "A",
+              "points": 8,
+              "credit": 3.0,
+              "credit_points": 24
+            },
+            {
+              "code": "PCC-CS503",
+              "name": "Object Oriented Programming",
+              "grade": "A",
+              "points": 8,
+              "credit": 3.0,
+              "credit_points": 24
+            },
+            {
+              "code": "PEC-IT501A",
+              "name": "Introduction to Industrial Management (Humanities III)",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "MC-CS501",
+              "name": "Constitution of India / Essence of Indian Knowledge Tradition",
+              "grade": "Q#",
+              "points": 0,
+              "credit": 0,
+              "credit_points": 0
+            },
+            {
+              "code": "ESC591",
+              "name": "Software Engineering Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "PCC-CS592",
+              "name": "Operating Systems Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            },
+            {
+              "code": "PCC-CS593",
+              "name": "Object Oriented Programming Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            }
+          ]
+        },
+        {
+          "sem": 6,
+          "year": "2022-23",
+          "sgpa": 8.41,
+          "credits_earned": 22,
+          "total_points": 185,
+          "subjects": [
+            {
+              "code": "PCC-CS601",
+              "name": "Database Management Systems",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "PCC-CS602",
+              "name": "Computer Networks",
+              "grade": "B",
+              "points": 7,
+              "credit": 3.0,
+              "credit_points": 21
+            },
+            {
+              "code": "PEC-IT601A",
+              "name": "Advanced Algorithms",
+              "grade": "D",
+              "points": 5,
+              "credit": 3.0,
+              "credit_points": 15
+            },
+            {
+              "code": "PEC-IT602D",
+              "name": "Pattern Recognition",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "OEC-IT601B",
+              "name": "Human Resource Development and Organizational Behavior",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "PROJ-CS601",
+              "name": "Research Methodology",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "PCC-CS691",
+              "name": "Database Management Systems Lab",
+              "grade": "E",
+              "points": 9,
+              "credit": 2.0,
+              "credit_points": 18
+            },
+            {
+              "code": "PCC-CS692",
+              "name": "Computer Networks Lab",
+              "grade": "O",
+              "points": 10,
+              "credit": 2.0,
+              "credit_points": 20
+            }
+          ]
+        },
+        {
+          "sem": 7,
+          "year": "2023-24",
+          "sgpa": 9,
+          "credits_earned": 18,
+          "total_points": 162,
+          "subjects": [
+            {
+              "code": "PEC-CS701E",
+              "name": "Machine learning",
+              "grade": "A",
+              "points": 8,
+              "credit": 3.0,
+              "credit_points": 24
+            },
+            {
+              "code": "PEC-CS702E",
+              "name": "Cyber Security",
+              "grade": "B",
+              "points": 7,
+              "credit": 3.0,
+              "credit_points": 21
+            },
+            {
+              "code": "OECCS701A",
+              "name": "Operations Research",
+              "grade": "O",
+              "points": 10,
+              "credit": 3.0,
+              "credit_points": 30
+            },
+            {
+              "code": "HSMC701",
+              "name": "Project Management and Entrepreneurship",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "PROJ-CS781",
+              "name": "Project-II",
+              "grade": "O",
+              "points": 10,
+              "credit": 6.0,
+              "credit_points": 60
+            }
+          ]
+        },
+        {
+          "sem": 8,
+          "year": "2023-24",
+          "sgpa": 9.18,
+          "credits_earned": 15,
+          "total_points": 138,
+          "subjects": [
+            {
+              "code": "PEC-CS801D",
+              "name": "Web and Internet Technology",
+              "grade": "C",
+              "points": 6,
+              "credit": 3.0,
+              "credit_points": 18
+            },
+            {
+              "code": "OEC-CS801E",
+              "name": "Soft Skill & Interpersonal Communication",
+              "grade": "E",
+              "points": 9,
+              "credit": 3.0,
+              "credit_points": 27
+            },
+            {
+              "code": "OEC-CS802A",
+              "name": "E-Commerce and ERP",
+              "grade": "B",
+              "points": 7,
+              "credit": 3.0,
+              "credit_points": 21
+            },
+            {
+              "code": "PROJ-CS881",
+              "name": "Project-III",
+              "grade": "O",
+              "points": 10,
+              "credit": 6.0,
+              "credit_points": 60
+            }
+          ]
+        }
+      ],
+      "grade_scheme": {
+        "O": 10,
+        "E": 9,
+        "A": 8,
+        "B": 7,
+        "C": 6,
+        "D": 5
+      }
+    },
+    {
+      "id": "class12",
+      "degree": "Class XII (Indian School Certificate — ISC)",
+      "institute": "Bishop Morrow School, Krishnagar, Nadia",
+      "board_or_university": "Council for the Indian School Certificate Examinations, New Delhi",
+      "year": "2020",
+      "percentage": 95.25,
+      "unique_id": "6673070",
+      "certificate_no": "BN 90043346",
+      "statement_no": "BN 60044477",
+      "result": "Pass Certificate Awarded (Class II with 6 subjects external + 1 internal)",
+      "subjects": [
+        { "name": "English", "marks": 95 },
+        { "name": "Bengali", "marks": 82 },
+        { "name": "Mathematics", "marks": 98 },
+        { "name": "Physics", "marks": 87 },
+        { "name": "Chemistry", "marks": 96 },
+        { "name": "Computer Science", "marks": 92 }
+      ],
+      "internal_assessment": {
+        "name": "SUPW & Community Service",
+        "grade": "A"
+      }
+    },
+    {
+      "id": "class10",
+      "degree": "Class X (Indian Certificate of Secondary Education — ICSE)",
+      "institute": "Bishop Morrow School, Krishnagar, Nadia",
+      "board_or_university": "Council for the Indian School Certificate Examinations, New Delhi",
+      "year": "2018",
+      "percentage": 93.2,
+      "unique_id": "6673070",
+      "certificate_no": "TF 80149900",
+      "statement_no": "TF 20151859",
+      "result": "Pass Certificate Awarded (Grade 7 in 6 subjects external, Grade D+ internal)",
+      "subjects": [
+        { "name": "English", "marks": 88 },
+        { "name": "Bengali", "marks": 88 },
+        { "name": "History, Civics & Geography (HCG-A, Geo-A)", "marks": 93 },
+        { "name": "Mathematics", "marks": 97 },
+        { "name": "Science (Phy-A, Che-A, Bio-B)", "marks": 92 },
+        { "name": "Computer Applications", "marks": 96 }
+      ],
+      "internal_assessment": {
+        "name": "SUPW & Community Service",
+        "grade": "A"
+      }
+    }
+  ],
+
+  "experience": [
+    {
+      "id": "namasys",
+      "company": "Namasys Analytics",
+      "role": "AI Engineer",
+      "location": "Remote, India",
+      "start": "2025-10",
+      "end": null,
+      "current": true,
+      "highlights": [
+        "Designed an automated AI Ops evaluation pipeline and workflows for Omantel — continuous monitoring via similarity scoring and LLM-as-a-judge, batched evaluation, logging, and drift detection for LLM/retriever finetuning.",
+        "Built proof-of-concepts with an AI avatar (Anam) in an agentic voicebot for Middle-Eastern clients.",
+        "Built a separate use case with CuOpt (for OmanLNG) to optimize supply chain problems with GPU acceleration."
+      ]
+    },
+    {
+      "id": "oriserve",
+      "company": "Oriserve",
+      "role": "Junior Data Scientist",
+      "location": "Noida, India",
+      "start": "2025-06",
+      "end": "2025-10",
+      "highlights": [
+        "Fine-tuned Mistral Small (24B) on a proprietary dataset augmented with Facebook NLLB-200 and Indicate for Hindi translation. Used PEFT, DDP multi-GPU, and 4-bit quantization on AWS H100 GPUs — cutting GPT-4.0 API costs by ~$80K / year for BFSI clients.",
+        "Built a pseudo speech-to-speech streaming pipeline using Voxtral-mini (multimodal LLM) for base64 audio and Voxtream TTS for audio generation.",
+        "Integrated Rnnoise into a custom audioserver to denoise 500ms audio chunks using SNR thresholds; STT only fires when VAD detects valid speech.",
+        "Managed the vector DB and optimized prompt engineering for TVS-onebot — chunking strategies lifted context relevance by ~13%."
+      ]
+    },
+    {
+      "id": "aiplanet",
+      "company": "AI Planet",
+      "role": "AI Developer Relations Intern",
+      "location": "Bengaluru, Karnataka, India",
+      "start": "2024-04",
+      "end": "2024-07",
+      "highlights": [
+        "Contributed to the open-source BeyondLLM framework; built use cases, docs, and tutorials.",
+        "Worked as a DevRel & community intern — created and published 5 videos on YouTube and wrote 2 blog posts.",
+        "Helped curate the curriculum content for the RAG and Agents Bootcamp."
+      ]
+    },
+    {
+      "id": "mea",
+      "company": "Ministry of External Affairs, Government of India",
+      "role": "Cyber Diplomacy Research Intern",
+      "location": "New Delhi, India",
+      "start": "2024-01",
+      "end": "2024-03",
+      "highlights": [
+        "Conducted a comparative analysis of cybersecurity and data protection policies across the world and identified comparative gaps in India's digital landscape.",
+        "Analyzed official frameworks and developed strategic solutions for the Government of India.",
+        "Analyzed India's engagement and prepared an article regarding the draft agenda of the India-Italy Cyber Dialogue.",
+        "Received a letter of recommendation and completion certificate."
+      ]
+    },
+    {
+      "id": "aarish",
+      "company": "Aarish Technologies Inc.",
+      "role": "AI Developer",
+      "location": "Quebec, Canada (Remote)",
+      "start": "2023-04",
+      "end": "2023-06",
+      "highlights": [
+        "Assisted in developing a quantized convolutional neural network to optimize storage utilization (space complexity) while automating various tasks involved in the process.",
+        "Converted a Python/PyTorch CNN model to an equivalent C implementation — aimed at accelerating computation and making it able to run on any hardware."
+      ]
+    },
+    {
+      "id": "kalvium",
+      "company": "Kalvium",
+      "role": "Python and C++ Course Developer",
+      "location": "Bengaluru, Karnataka, India",
+      "start": "2022-08",
+      "end": "2023-01",
+      "highlights": [
+        "Authored coding questions and problem statements for the Kalvium platform and uploaded them with test cases and reference solutions."
+      ]
+    },
+    {
+      "id": "aircubic",
+      "company": "Aircubic — Junoterra",
+      "role": "Data Analyst",
+      "location": "Delhi, India",
+      "start": "2022-08",
+      "end": "2022-10",
+      "highlights": [
+        "Collected weather data via API, performed data cleaning, eradicated errors, and ran thorough data analysis.",
+        "Developed a code that generates a report out of that data using the fpdf module in Python — compared the data to previous week's data to find and show the change in carbon dioxide, oxygen, etc. levels."
+      ]
+    },
+    {
+      "id": "smollan",
+      "company": "Smollan UK",
+      "role": "Quality Assurance Manager, Data Science",
+      "location": "Mumbai, Maharashtra, India",
+      "start": "2022-07",
+      "end": "2022-08",
+      "highlights": [
+        "Conducted spot checks on provided data using Google Data Studio and used graphs / charts to derive insightful observations.",
+        "Developed a code that generates random data while preserving the variance and distribution of the original data.",
+        "Built a Selenium scraper for client-facing scraping tasks (Walmart, Bestbuy, and more) for Google."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "parkify",
+      "name": "Parkify — Find My Garage",
+      "subtitle": "Online Parking Application",
+      "timeline": "July 2023 - August 2023",
+      "tools": ["Python", "OpenCV", "Tensorflow", "Flask"],
+      "github": "https://github.com/FindMyGarage/fmg.ai",
+      "highlights": [
+        "Led a team to build a parking app connecting users with available spaces and offering a platform for parking-lot owners.",
+        "Developed a deep learning model for Indian number plate detection, outperforming pre-trained OCRs in accuracy and cutting detection time by 80%.",
+        "Secured 2nd place at the Hack4Bengal 2.0 hackathon."
+      ],
+      "award": "Hack4Bengal 2.0 — 1st Runner Up"
+    },
+    {
+      "id": "nirnayaak",
+      "name": "Nirnayaak",
+      "subtitle": "Legal Document Platform",
+      "timeline": "February 2023",
+      "tools": ["Python", "Flask", "GPT-3.0 API", "Cohere", "YAKE"],
+      "github": "https://github.com/Codehackerone/nirnayaak.ai",
+      "highlights": [
+        "Built a platform that helps Indian legal authorities quickly find and reference legal documents for faster judgements.",
+        "Built a prioritization algorithm and used Cohere + YAKE for keyword-based text summarization.",
+        "Won 2nd place at Diversion 2k23 hackathon by MLH. Research paper published."
+      ],
+      "award": "Diversion 2k23 (MLH) — 2nd Place"
+    }
+  ],
+
+  "achievements": [
+    {
+      "id": "hack4bengal",
+      "title": "1st Runner Up — Hack4Bengal 2.0",
+      "year": 2023,
+      "description": "Eastern India's largest community hackathon. Team 'HackIsFich' won 1st runner up for Parkify.",
+      "image": "hack4bengal runners up.png"
+    },
+    {
+      "id": "diversion",
+      "title": "1st Runner Up — Diversion 2k23",
+      "year": 2023,
+      "description": "MLH-certified hackathon. Won 2nd place for Nirnayaak.",
+      "image": "diversion 2023 runners up.png"
+    },
+    {
+      "id": "sih",
+      "title": "Finalist — Smart India Hackathon (Grand Finale)",
+      "year": 2022,
+      "description": "Grand finale at Sikkim Manipal Institute of Technology, Sikkim. Problem statement from the Ministry of Justice, Government of India.",
+      "image": "smart india hackathon finalist.png"
+    }
+  ],
+
+  "skills": {
+    "top": ["Statistics", "Statistical Analysis", "Probability Theory"],
+    "languages": ["Python", "C", "C++", "JavaScript", "SQL"],
+    "ml_ai": [
+      "LLMs",
+      "RAG",
+      "Fine-tuning (PEFT / LoRA)",
+      "4-bit Quantization",
+      "DDP / Multi-GPU",
+      "Prompt Engineering",
+      "Vector Databases",
+      "TensorFlow",
+      "PyTorch",
+      "OpenCV",
+      "Convolutional Neural Networks",
+      "Speech-to-Text / TTS",
+      "VAD"
+    ],
+    "frameworks": ["Flask", "FastAPI", "BeyondLLM"],
+    "infra": ["AWS", "Docker", "Linux"],
+    "other": ["Data Analysis", "Web Scraping (Selenium)", "Technical Writing"]
+  },
+
+  "design_direction": {
+    "theme": "Professional, with playful 3D flourishes — not tacky.",
+    "palette_suggestion": {
+      "primary": "#0b1020 (deep navy)",
+      "accent": "#7c5cff (electric violet)",
+      "accent_2": "#22d3ee (cyan)",
+      "paper": "#f7f4ec (warm off-white — for marksheets)",
+      "ink": "#1a1a1a"
+    },
+    "sections": [
+      {
+        "id": "hero",
+        "idea": "Floating 3D scene — a tilted desk with a name plaque, a laptop, and a stack of papers. Smooth camera orbit on scroll. Name and tagline float in front."
+      },
+      {
+        "id": "about",
+        "idea": "Short intro card with a small 3D avatar bust or minimal abstract shape. Keeps the focus on words, not gimmicks."
+      },
+      {
+        "id": "experience",
+        "idea": "Vertical timeline rendered as a 3D ribbon on the side. Each job is a card that flips in as it enters viewport."
+      },
+      {
+        "id": "education",
+        "idea": "The signature section: 3D shelf with three physical 'documents' — the ICSE marksheet, the ISC marksheet, and the college grade cards. Click to open a realistic HTML replica (watermark, seal silhouette, letterhead) — not a literal forgery. Use the subject/marks data from this file. Semester tabs for the college card."
+      },
+      {
+        "id": "projects",
+        "idea": "3D cards on a rotating carousel. Each card shows project name, tech stack chips, award badge, and a short demo. Playful tilt on hover."
+      },
+      {
+        "id": "achievements",
+        "idea": "Trophy shelf with three 3D trophies/medals. Clicking each brings up the photo from the hackathon."
+      },
+      {
+        "id": "contact",
+        "idea": "Simple card with email, LinkedIn, GitHub. One subtle 3D accent."
+      }
+    ],
+    "tech_stack_suggestion": {
+      "framework": "Next.js (app router) + TypeScript",
+      "3d": "react-three-fiber + drei + three",
+      "styling": "Tailwind CSS",
+      "animation": "Framer Motion",
+      "notes": "Lazy-load heavy 3D scenes; fall back to static hero on mobile / low-power devices."
+    },
+    "tone_guardrails": [
+      "No neon gradients everywhere — restrict accents.",
+      "No auto-playing sound.",
+      "3D is a frame, not the subject — text and content should read cleanly.",
+      "Marksheet replicas: keep them tasteful — evoke the originals (grade letters, school name, subjects) without copying seals or signatures pixel-perfect."
+    ]
+  },
+
+  "assets_referenced": {
+    "note": "Original personal-data folder will be deleted after website dev — all content needed is captured in this metadata file.",
+    "hackathon_photos": [
+      "personal-data/achievements/hack4bengal runners up.png",
+      "personal-data/achievements/diversion 2023 runners up.png",
+      "personal-data/achievements/smart india hackathon finalist.png"
+    ],
+    "recommendation": "Copy the three hackathon photos into /public/achievements/ before deleting the personal-data folder."
+  }
+}

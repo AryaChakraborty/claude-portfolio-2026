@@ -1,0 +1,47 @@
+# Private source material — resume, marksheets, personal photos, hackathon images.
+# These were used only to generate metadata.json; never push them.
+personal-data/
+
+# Claude Code local settings
+.claude/
+
+# Root metadata backup (source of truth lives at web/src/data/metadata.json)
+# Keep this committed if you want it; remove the next line if you prefer not to.
+# metadata.json
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc local
+*.local
