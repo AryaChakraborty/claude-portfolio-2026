@@ -791,7 +791,7 @@
       "VAD"
     ],
     "frameworks": ["Flask", "FastAPI", "BeyondLLM"],
-    "infra": ["AWS", "Docker", "Linux"],
+    "infra": ["AWS", "Azure", "Docker", "Linux"],
     "other": ["Data Analysis", "Web Scraping (Selenium)", "Technical Writing"]
   },
 
